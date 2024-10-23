@@ -1,3 +1,5 @@
+Installing a bot on a VDS server
+
 # 1. Update the system
 sudo apt update
 
